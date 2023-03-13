@@ -42,7 +42,8 @@ Thank you for taking the time to read my profile. I hope to collaborate with oth
   <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs"/>
-  <img src="https://img.icons8.com/ultraviolet/256/react--v1.png" style="width:55px,height:55px"/>
+  <img src="https://img.icons8.com/ultraviolet/256/react--v1.png" style=" width: 50px;
+                            height: 50px;"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
 </p>
