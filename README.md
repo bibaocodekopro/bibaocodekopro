@@ -2,10 +2,22 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 
+Introduction
+- ✍ I'm a student of: 
+- Hello there, I am a fourth-year student at [Sai Gon University](https://sgu.edu.vn) (SGU), with a passion for becoming a Web Developer. I have experience working with several programming languages such as HTML, CSS, Javascript, PHP, and Java. Moreover, I have worked with Xampp, MySQL, NodeJS, and ReactJS.
+Completed Projects
+Here are some of the projects I have completed during my studies:
 
-- ✍ I'm a student of: [Sai Gon University](https://sgu.edu.vn) (SGU).
+QuanLyThucPham
+QuanLyThucPham is a Java-based software developed using NetBean Apache IDE. It serves as a management software for a vegetable store, including features such as employee management, adding and editing orders, adding, editing, and deleting products, and inventory management.
 
-- 🌱 I’m currently learning Back-End
+TrangBanThucPham
+TrangBanThucPham is an online food store built with HTML, CSS, PHP, and MySQL. The website has features such as login and registration, customer information management, adding, editing, and deleting products, and order management.
+
+Clone-Booking-Care-Client and Clone-Booking-Care-Server
+Clone-Booking-Care-Client and Clone-Booking-Care-Server are two projects that are still in progress. They are clones of the Bookingcare.vn website, built using NodeJS and ReactJS. These websites are being developed with the aim of replicating the features of Bookingcare.vn while incorporating new features and improvements.
+
+Thank you for taking the time to read my profile. I hope to collaborate with others on future projects!
 
 
 ## 📫 How to reach me:
