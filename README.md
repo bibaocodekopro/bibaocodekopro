@@ -7,12 +7,12 @@ Introduction
 - Hello there, I am a fourth-year student at [Sai Gon University](https://sgu.edu.vn) (SGU), with a passion for becoming a Web Developer. I have experience working with several programming languages such as HTML, CSS, Javascript, PHP, and Java. Moreover, I have worked with Xampp, MySQL, NodeJS, and ReactJS.
 Completed Projects
 Here are some of the projects I have completed during my studies:
+Completed Projects
+- [QuanLyThucPham](https://github.com/bibaocodekopro/QuanLyBanHang): QuanLyThucPham is a Java-based software developed using NetBean Apache IDE. It serves as a management software for a vegetable store, including features such as employee management, adding and editing orders, adding, editing, and deleting products, and inventory management.
 
-[QuanLyThucPham](https://github.com/bibaocodekopro/QuanLyBanHang): QuanLyThucPham is a Java-based software developed using NetBean Apache IDE. It serves as a management software for a vegetable store, including features such as employee management, adding and editing orders, adding, editing, and deleting products, and inventory management.
+- [TrangBanThucPham](https://github.com/bibaocodekopro/TrangBanThucPham):TrangBanThucPham is an online food store built with HTML, CSS, PHP, and MySQL. The website has features such as login and registration, customer information management, adding, editing, and deleting products, and order management.
 
-[TrangBanThucPham](https://github.com/bibaocodekopro/TrangBanThucPham):TrangBanThucPham is an online food store built with HTML, CSS, PHP, and MySQL. The website has features such as login and registration, customer information management, adding, editing, and deleting products, and order management.
-
-[Clone-Booking-Care-Client](https://github.com/bibaocodekopro/Clone-Booking-Care-Client) and [Clone-Booking-Care-Server](https://github.com/bibaocodekopro/Clone-Booking-Care-Server): Clone-Booking-Care-Client and Clone-Booking-Care-Server are two projects that are still in progress. They are clones of the Bookingcare.vn website, built using NodeJS and ReactJS. These websites are being developed with the aim of replicating the features of Bookingcare.vn while incorporating new features and improvements.
+- [Clone-Booking-Care-Client](https://github.com/bibaocodekopro/Clone-Booking-Care-Client) and [Clone-Booking-Care-Server](https://github.com/bibaocodekopro/Clone-Booking-Care-Server): Clone-Booking-Care-Client and Clone-Booking-Care-Server are two projects that are still in progress. They are clones of the Bookingcare.vn website, built using NodeJS and ReactJS. These websites are being developed with the aim of replicating the features of Bookingcare.vn while incorporating new features and improvements.
 
 Thank you for taking the time to read my profile. I hope to collaborate with others on future projects!
 
