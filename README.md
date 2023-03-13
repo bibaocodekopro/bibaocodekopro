@@ -36,13 +36,13 @@ Thank you for taking the time to read my profile. I hope to collaborate with oth
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
-  <img src="https://icons8.com/icon/XCNhMfBsqfX1/visual-studio-code-2019"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-  <img src="https://icons8.com/icon/54087/nodejs"/>
-  <img src="https://icons8.com/icon/NfbyHexzVEDk/react"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs"/>
+  <img src="https://img.icons8.com/ultraviolet/256/react--v1.png" style="width:55px,height:55px"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
 </p>
