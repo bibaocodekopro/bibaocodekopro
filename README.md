@@ -4,7 +4,7 @@
 Introduction
 - ✍ I'm a student of: 
 - Hello there, I am a fourth-year student at [Sai Gon University](https://sgu.edu.vn) (SGU), with a passion for becoming a Web Developer. I have experience working with several programming languages such as HTML, CSS, Javascript, PHP, and Java. Moreover, I have worked with Xampp, MySQL, NodeJS, and ReactJS.
-Here are some of the projects I have completed during my studies:
+Here are some of the projects I have completed during my studies:</br>
 Completed Projects
 - [QuanLyThucPham](https://github.com/bibaocodekopro/QuanLyBanHang): QuanLyThucPham is a Java-based software developed using NetBean Apache IDE. It serves as a management software for a vegetable store, including features such as employee management, adding and editing orders, adding, editing, and deleting products, and inventory management.
 
