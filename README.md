@@ -6,15 +6,15 @@ Introduction
 
 - The programming languages I can work with include HTML, CSS, JavaScript, and PHP. Additionally, the frameworks I use for development include Bootstrap, Ant Design, jQuery, Node.js, and especially Laravel.
   
-- From December 2024 to the present, I have been working at Nasys [Nasys](https://nasys.vn):, a company specializing in providing software solutions such as Remote, ERP, and management systems for restaurant and food chain operations.
+- From December 2024 to the present, I have been working at [Nasys](https://nasys.vn), a company specializing in providing software solutions such as Remote, ERP, and management systems for restaurant and food chain operations.
 
 - Below are my projects:
 
-+ [Remove7](https://remove7.com): The software allows users to use applications and browsers to control computer devices, navigate directories, manage files, and use the client's command prompt.Using Python as the server-side programming language, while the client-side is developed using pure PHP and JavaScript. Frameworks such as jQuery, Bootstrap, etc., are employed, along with a WebSocket system to ensure continuous data transmission and reception.
++ [Remove7](https://remove7.com) : The software allows users to use applications and browsers to control computer devices, navigate directories, manage files, and use the client's command prompt.Using Python as the server-side programming language, while the client-side is developed using pure PHP and JavaScript. Frameworks such as jQuery, Bootstrap, etc., are employed, along with a WebSocket system to ensure continuous data transmission and reception.
 
-- [[Hadongcablecar](https://hadongcablecar.com/)]:This is a website describing the cable car system in South Korea, developed using pure PHP, JavaScript, and frameworks such as jQuery, Bootstrap, etc.
+- [Hadongcablecar](https://hadongcablecar.com/) : This is a website describing the cable car system in South Korea, developed using pure PHP, JavaScript, and frameworks such as jQuery, Bootstrap, etc.
 
-- [[ERP](http://elitech.inventory.klkim.com/)]: This is a system for managing human resources and warehouse operations of a company. It utilizes programming languages such as PHP, JavaScript, HTML, and CSS, along with frameworks like Laravel, jQuery, Bootstrap, etc.
+- [ERP](http://elitech.inventory.klkim.com/) : This is a system for managing human resources and warehouse operations of a company. It utilizes programming languages such as PHP, JavaScript, HTML, and CSS, along with frameworks like Laravel, jQuery, Bootstrap, etc.
 
 
 
