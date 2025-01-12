@@ -4,16 +4,18 @@
 Introduction
 - ✍ Hello, I am a Web Developer. I studied and graduated from Saigon University in April 2024.
 
-The programming languages I can work with include HTML, CSS, JavaScript, and PHP. Additionally, the frameworks I use for development include Bootstrap, Ant Design, jQuery, Node.js, and especially Laravel.
-From December 2024 to the present, I have been working at Nasys, a company specializing in providing software solutions such as Remote7, ERP, and management systems for restaurant and food chain operations.
-Below are my projects:
+- The programming languages I can work with include HTML, CSS, JavaScript, and PHP. Additionally, the frameworks I use for development include Bootstrap, Ant Design, jQuery, Node.js, and especially Laravel.
+  
+- From December 2024 to the present, I have been working at Nasys [Nasys](https://nasys.vn):, a company specializing in providing software solutions such as Remote, ERP, and management systems for restaurant and food chain operations.
 
-- [QuanLyThucPham](https://github.com/bibaocodekopro/QuanLyBanHang): QuanLyThucPham is a Java-based software developed using NetBean Apache IDE. It serves as a management software for a vegetable store, including features such as employee management, adding and editing orders, adding, editing, and deleting products, and inventory management.
+- Below are my projects:
 
-- [TrangBanThucPham](https://github.com/bibaocodekopro/TrangBanThucPham):TrangBanThucPham is an online food store built with HTML, CSS, PHP, and MySQL. The website has features such as login and registration, customer information management, adding, editing, and deleting products, and order management.
++ [Remove7](https://remove7.com): The software allows users to use applications and browsers to control computer devices, navigate directories, manage files, and use the client's command prompt.Using Python as the server-side programming language, while the client-side is developed using pure PHP and JavaScript. Frameworks such as jQuery, Bootstrap, etc., are employed, along with a WebSocket system to ensure continuous data transmission and reception.
 
-- [Clone-Booking-Care-Client](https://github.com/bibaocodekopro/Clone-Booking-Care-Client) and [Clone-Booking-Care-Server](https://github.com/bibaocodekopro/Clone-Booking-Care-Server): Clone-Booking-Care-Client and Clone-Booking-Care-Server are two projects that are still in progress. They are clones of the Bookingcare.vn website, built using NodeJS and ReactJS. These websites are being developed with the aim of replicating the features of Bookingcare.vn while incorporating new features and improvements.
-- [LTMFTPServices](https://github.com/bibaocodekopro/LTM_FTPService) is a Java-based project that describes the process of FTP (File Transfer Protocol). The client can register with a code sent to their Gmail when registering, log in, log in anonymously, and upload/download files to/from the shared or private folder. The server can manage all client activities and set limits on the amount of data uploaded/downloaded.
+- [[Hadongcablecar](https://hadongcablecar.com/)]:This is a website describing the cable car system in South Korea, developed using pure PHP, JavaScript, and frameworks such as jQuery, Bootstrap, etc.
+
+- [[ERP](http://elitech.inventory.klkim.com/)]: This is a system for managing human resources and warehouse operations of a company. It utilizes programming languages such as PHP, JavaScript, HTML, and CSS, along with frameworks like Laravel, jQuery, Bootstrap, etc.
+
 
 
 ## 📫 How to reach me:
@@ -30,23 +32,6 @@ Below are my projects:
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
-
-## Skills:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs"/>
-  <img src="https://img.icons8.com/ultraviolet/256/react--v1.png" style=" width: 50px;
-                            height: 50px;"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-</p>
-
 
 <table style="width:100%;">
   <tr>
