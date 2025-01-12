@@ -2,9 +2,12 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
 Introduction
-- ✍ I'm a student of: 
-- Hello there, I am a fourth-year student at [Sai Gon University](https://sgu.edu.vn) (SGU), with a passion for becoming a Web Developer. I have experience working with several programming languages such as HTML, CSS, Javascript, PHP, and Java. Moreover, I have worked with Xampp, MySQL, NodeJS, and ReactJS.
-Here are some of the projects I have completed during my studies:
+- ✍ Hello, I am a Web Developer. I studied and graduated from Saigon University in April 2024.
+
+The programming languages I can work with include HTML, CSS, JavaScript, and PHP. Additionally, the frameworks I use for development include Bootstrap, Ant Design, jQuery, Node.js, and especially Laravel.
+From December 2024 to the present, I have been working at Nasys, a company specializing in providing software solutions such as Remote7, ERP, and management systems for restaurant and food chain operations.
+Below are my projects:
+
 - [QuanLyThucPham](https://github.com/bibaocodekopro/QuanLyBanHang): QuanLyThucPham is a Java-based software developed using NetBean Apache IDE. It serves as a management software for a vegetable store, including features such as employee management, adding and editing orders, adding, editing, and deleting products, and inventory management.
 
 - [TrangBanThucPham](https://github.com/bibaocodekopro/TrangBanThucPham):TrangBanThucPham is an online food store built with HTML, CSS, PHP, and MySQL. The website has features such as login and registration, customer information management, adding, editing, and deleting products, and order management.
